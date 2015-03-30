@@ -1,0 +1,3 @@
+<Context antiJARLocking="true" path="/matbulic_aplikacija_1">
+  <Realm className="org.apache.catalina.realm.JDBCRealm" connectionName="admin" connectionPassword="123456" connectionURL="jdbc:mysql://localhost:3306/nwtis_matbulic_bp_1" driverName="com.mysql.jdbc.Driver" roleNameCol="status" userCredCol="lozinka" userNameCol="korIme" userRoleTable="matbulic_korisnik" userTable="matbulic_korisnik"/>
+</Context>

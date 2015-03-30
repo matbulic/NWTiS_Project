@@ -1,0 +1,32 @@
+.header{
+    height: 30px;
+    font-size: 20px;
+    background-color: darkcyan;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.top{
+    height: 50px;
+    background-color: lightcyan;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.line{
+    background-color: #00AF64;
+    text-decoration: none;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: whitesmoke;
+}
+
+.line:hover{
+    background-color: #67E300;
+    color: white;
+}
+
+    
+
